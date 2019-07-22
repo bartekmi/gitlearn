@@ -1,8 +1,3 @@
 11
-<<<<<<< HEAD
 Hello World, My Dearest Friend
 Modified in Commit 12
-||||||| merged common ancestors
-=======
-Modified in Commit 12
->>>>>>> 12

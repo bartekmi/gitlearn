@@ -5,6 +5,7 @@ Line A - Added in Branch A
 4
 5
 Line B - Added in Branch B              # At your service, Your Majesty!
+# This is a late insert in B - we will not rebase this one from B to C
 6
 7
 8
